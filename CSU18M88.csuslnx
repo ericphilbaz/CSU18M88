@@ -1,0 +1,27 @@
+﻿# Generalplus IDE Solution File, Format Version 1.0.0
+# Warning: do not edit or delete this solution file!
+
+# ////////////////////////////////////////////////////
+# Begin Solution
+<Solution>
+	NAME : CSU18M88
+	GUID : {B6F376C9-7E2F-445D-8EEC-95DA1E6EF061}
+	STARTUP : {5D64AF7F-7FE2-47AE-888B-241A51A849F1}
+	ACTIVECONFIGURATION : Release
+</Solution>
+# End Solution
+
+# ////////////////////////////////////////////////////
+# Begin Project
+<Projects>
+	COUNT : 1
+	<Project1>
+		NAME : CSU18M88
+		GUID : {5D64AF7F-7FE2-47AE-888B-241A51A849F1}
+		PATH : .\CSU18M88.csuprjx
+		Dependencies : 
+	</Project1>
+</Projects>
+
+# End Project
+# ////////////////////////////////////////////////////

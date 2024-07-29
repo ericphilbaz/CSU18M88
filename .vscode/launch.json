@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/app/腾讯文件缓存/WeChat Files/wxid_5j3sdvdm1i6922/FileStorage/File/2024-07/CSU18M88_C_DEMO1.0/CSU18M88_C_Dome1.0",
+      "program": "e:/app/腾讯文件缓存/WeChat Files/wxid_5j3sdvdm1i6922/FileStorage/File/2024-07/CSU18M88_C_DEMO1.0/CSU18M88_C_Dome1.0/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

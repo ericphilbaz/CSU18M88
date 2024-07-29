@@ -1,0 +1,20 @@
+version:Mon Aug 08 15:27:53 2016
+
+bodyname:"CSU18M88"
+bodyseries:"CSU18MXX"
+bodyconfig:"E:\Program Files (x86)\chipsea\CSU-IDE\chipsea\project\body\CSU18MXX\CSU18M88\ChipInfo.conf"
+options:Fill 0xffff
+codeoption:"0x2080:0xffff;0x2081:0xfff8;"
+codeoffset:"0x0000"
+codesize:"0x1FFF"
+limitcodesize:"0x1FF9"
+appendcodesize:"0x0000"
+bankcount:"6"
+input:"E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_10bitadc.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_24bitadc.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_define_bit.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\CS_drv_delay.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_e2prom.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_lcd.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_soc_init.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cs_drv_uart.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\main.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\SysRegDefine.obj","E:\app\腾讯文件缓存\WeChat Files\wxid_5j3sdvdm1i6922\FileStorage\File\2024-07\CSU18M88_C_DEMO1.0\CSU18M88_C_Dome1.0\Release\cstartup.obj"
+library:"E:\Program Files (x86)\chipsea\CSU-IDE\chipsea\tools\Compiler\C\libcscc.lib","E:\Program Files (x86)\chipsea\CSU-IDE\chipsea\tools\Compiler\C\libc.lib"
+temppath:"E:/app/腾讯文件缓存/WeChat Files/wxid_5j3sdvdm1i6922/FileStorage/File/2024-07/CSU18M88_C_DEMO1.0/CSU18M88_C_Dome1.0/Release\"
+outputbin:"E:/app/腾讯文件缓存/WeChat Files/wxid_5j3sdvdm1i6922/FileStorage/File/2024-07/CSU18M88_C_DEMO1.0/CSU18M88_C_Dome1.0/Release\CSU18M88.hex"
+;example begin
+;locate: CSCC_SECTION_1 at 0x80
+;locate: CSCC_SECTION_2 after CSCC_INIT_1
+;example end
